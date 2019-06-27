@@ -7,9 +7,6 @@ public class CalculatorDemo_1 {
 	// sum 이라는 메소드를 만들었고, 단순 왼쪽과 오른쪽을 더하는 메소드.
 		System.out.println(left + right); // ()안에 "" 을 썼더니 left + right 그대로 출력됨. 주의 필요.
 		
-		
-		
-		
 	}
 	
 	
