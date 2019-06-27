@@ -11,6 +11,9 @@ package calculatordemo_1;
 		// 그냥 변수 선언
 		
 		
+		
+		
+		
 		public void setOprands(int left, int right) {
 			this.left = left;
 			this.right = right;	

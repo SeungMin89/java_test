@@ -7,6 +7,8 @@ package calculatordemo_1;
 		
 		int left, right ;  //변수 선언
 		
+		
+		
 		public void setOprands(int left, int right) { 
 			// 위에서 left, right 에 대해 변수형을 선언해서 여기는 없어도 되나? 싶었는데 안됨. 변수형 필요.
 			this.left = left;

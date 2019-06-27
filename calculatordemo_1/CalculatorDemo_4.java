@@ -13,6 +13,8 @@ class Calculator3{
 		System.out.println((left + right)/2);
 	}
 	
+	
+	
 }
 
 
