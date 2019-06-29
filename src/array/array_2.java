@@ -5,13 +5,13 @@ public class array_2 {
 	public static void main(String[] args) {
 
 		
-		String[] members = { "ÃÖÁøÇõ", "ÃÖÀ¯ºó", "ÇÑÀÌ¶÷" };
+		String[] members = { "ìµœì§„í˜", "ìµœìœ ë¹ˆ", "í•œì´ëŒ" };
         for (int i = 0; i < members.length; i++) {
             String member = members[i];
-            System.out.println(member + "ÀÌ »ó´ãÀ» ¹Ş¾Ò½À´Ï´Ù");
+            System.out.println(member + "ì´ ìƒë‹´ì„ ë°›ì•˜ìŠµë‹ˆë‹¤");
         }
         for (String e : members) {
-            System.out.println(e + "ÀÌ »ó´ãÀ» ¹Ş¾Ò½À´Ï´Ù");
+            System.out.println(e + "ì´ ìƒë‹´ì„ ë°›ì•˜ìŠµë‹ˆë‹¤");
         }
 
     }
