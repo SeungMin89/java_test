@@ -4,7 +4,7 @@ public class array_1 {
 
 	public static void main(String[] args) {
 
-		String[] classGroup = { "ÃÖÁøÇõ", "ÃÖÀ¯ºó", "ÇÑ¾Æ¶÷", "ÀÌ°íÀ×"};
+		String[] classGroup = { "ìµœì§„í˜", "ìµœìœ ë¹ˆ", "í•œì•„ëŒ", "ì´ê³ ì‰"};
 		
 		System.out.println(classGroup[0]);
         System.out.println(classGroup[1]);
